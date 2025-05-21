@@ -1,0 +1,1 @@
+A microservices-based platform designed to help companies connect with tech professionals by managing and assigning freelance tasks efficiently. Built with Java 17, Spring Boot, Kafka, PostgreSQL and Dockert.
